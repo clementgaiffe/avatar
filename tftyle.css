@@ -1,0 +1,103 @@
+*{
+	font-family: "georgia";
+	color: white;
+}
+
+
+p
+
+{
+
+    font-size: 20px; /* Paragraphes de 14 pixels */
+
+}
+
+h1
+
+{
+
+    font-size: 40px; /* Titres de 40 pixels */
+
+}
+
+p
+
+{
+
+    font-family: georgia;
+
+}
+
+label
+
+{
+	font-family: georgia;
+}
+
+body
+{
+	background-image:url(Geometric-Shape-Design-Desktop-Wallpaper-24822.jpg);
+}
+
+.formulaire
+{
+	font-size: 20px;
+	padding-right: 15px;
+	padding-left: 15px;
+	max-width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	color: black;
+}
+
+.p
+{
+	margin-left: 15px;
+}
+
+button
+{
+	background-color: #DCDCDC;
+	color: black;
+	border-radius: 15px;
+	font-size: 15px;
+}
+
+button:hover
+{
+	background-color: rgb(71, 67, 67);
+	color: rgb(248, 247, 247);
+}
+
+.imgt
+{
+	border-radius: 15px;
+}
+.imgf
+{
+	border-radius: 50px;
+}
+
+input
+{
+	border-radius: 15px;
+	color: black;
+	width: 20%;
+}
+
+textarea
+{
+	border-radius: 15px;
+	color: black;
+	width: 20%;
+}
+
+for
+{
+	font-size: 140px;
+}
+
+.message
+{
+	align-items: center;
+}
